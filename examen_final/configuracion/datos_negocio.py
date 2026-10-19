@@ -1,0 +1,5 @@
+NOMBRE = "La Guarida - Juegos de Mesa"
+RUC = "80123456-7"
+DIRECCION = "Av. España 1234, Asunción"
+TELEFONO = "(021) 555-123"
+LEYENDA_PIE = "Gracias por su compra"
